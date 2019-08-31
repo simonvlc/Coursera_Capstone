@@ -18,7 +18,7 @@ In this notebook, we´re going to process the PISA dataset from 2012, which we d
 * Wealthy students have greater chances of having more books at home and owning a computer.
 * Students with a high number of books at home and who own a computer are ones getting the higher scores.
 
-## Resources used during the development of this notebook
+## Resources used during the development of this notebook
 
 * Udacity Data Analyst Nanodegree
 * [Matplotlib Documentation](https://matplotlib.org/3.1.1/contents.html)
